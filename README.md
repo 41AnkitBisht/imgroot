@@ -5,10 +5,11 @@ This is a groot repository
 
 Natural Language Processing, usually shortened as NLP, is a branch of artificial intelligence that deals with the interaction between computers and humans using the natural language. The ultimate objective of NLP is to read, decipher, understand, and make sense of the human languages in a manner that is valuable.
 
-OBJECTIVES:/n
+OBJECTIVES:
+
 To identify if the movie review is positive or negative
 
-Steps:
+STEPS:
 1.Get Tensor Flow dataset on IMDb reviews .
 2.Classify the data and store them as training and testing data
 3.Design the model
