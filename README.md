@@ -17,5 +17,10 @@ To identify if the movie review is positive or negative.
 6.Plot grap of acc vs epochs <br>
 
 ## HOW EASY IT IS TO GET STARTED:
+1.Open the file IMDb review.ipynb<br>
+2.Click open in Google Colaboratory<br>
+3.Starting from the top press Shift+enter to run a cell.<br>
+4.When a cell stops running the result is displayed. <br>
+5.
 
 
