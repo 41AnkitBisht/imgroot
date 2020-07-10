@@ -14,13 +14,16 @@ To identify if the movie review is positive or negative.
 3.Design the model <br>
 4.Building the model <br>
 5.Train the Model <br>
-6.Plot grap of acc vs epochs <br>
+6.Plot grap of accuracy vs epochs and loss vs epochs <br>
 
 ## HOW EASY IT IS TO GET STARTED:
 1.Open the file IMDb review.ipynb<br>
 2.Click open in Google Colaboratory<br>
 3.Starting from the top press Shift+enter to run a cell.<br>
 4.When a cell stops running the result is displayed. <br>
-5.
-
+5.When last cell is processed it will download a "vecs.tsv" and "meta.tsv" file <br>
+6.Now go to http://projector.tensorflow.org/ and click on load<br>
+7.First choose the "vecs.tsv" then "meta.tsv"<br>
+8.Now click on sphereize data and boom the most used words in positive and negative reviews get seperated.<br>
+9.This helps the ai detect if the review is positive or negative.
 
