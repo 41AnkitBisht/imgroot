@@ -27,3 +27,14 @@ To identify if the movie review is positive or negative.
 8.Now click on sphereize data and boom the most used words in positive and negative reviews get seperated.<br>
 9.This helps the ai detect if the review is positive or negative.
 
+## RESULTS
+
+### 1.FOR GRU<br>
+![simple dnn](https://user-images.githubusercontent.com/68053008/87217184-3f0a3180-c364-11ea-81d4-f3377dd79e9e.png)<br>
+
+### 2.FOR LSTM<br>
+![LSTM](https://user-images.githubusercontent.com/68053008/87217191-4f221100-c364-11ea-8c93-1679c6885bb0.png)<br>
+
+### 3.FOR CONV1D<br>
+![conv1d](https://user-images.githubusercontent.com/68053008/87217221-85f82700-c364-11ea-852a-b96273cc1db1.png)
+
