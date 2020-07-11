@@ -19,7 +19,7 @@ To identify if the movie review is positive or negative.
 1.Open the file IMDb review.ipynb<br>
 2.Click open in Google Colaboratory<br>
 3.Starting from the top press Shift+enter to run a cell.<br>
-4.When a cell stops running the result is displayed. <br>
+4.When a cell stops running the play icon is displayed again. <br>
 5.When last cell is processed it will download a "vecs.tsv" and "meta.tsv" file <br>
 6.Now go to http://projector.tensorflow.org/ and click on load<br>
 7.First choose the "vecs.tsv" then "meta.tsv"<br>
