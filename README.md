@@ -1,5 +1,4 @@
-# imgroot
-This is a groot repository
+
 
 # "SENTIMENT ANALYSIS ON IMDb MOVIE REVIEWS"
 
