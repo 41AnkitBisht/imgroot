@@ -19,12 +19,12 @@ The dataset comprises of 25000 reviews and labels for training data and 25000 fo
 6.Plot grap of accuracy vs epochs and loss vs epochs <br>
 
 ## HOW EASY IT IS TO GET STARTED:
-1.Open the file IMDb review.ipynb<br>
-2.Click open in Google Colaboratory<br>
-3.Starting from the top press Shift+enter to run a cell.<br>
-4.When a cell stops running the play icon is displayed again. <br>
+1.Open the file IMDb_review.ipynb<br>
+2.Click --> open in colab<br>
+3.Press Shift+enter to run a cell or simply click on the play icon displayed on the cell. Click --> Run Anyway<br>
+4.When a cell stops running the play icon is displayed again. Press play icon for every cell and wait for it to be processed. <br>
 5.When last cell is processed it will download a "vecs.tsv" and "meta.tsv" file <br>
-6.Now go to http://projector.tensorflow.org/ and click on load<br>
+6.Now go to http://projector.tensorflow.org/ and click --> LOAD<br>
 7.First choose the "vecs.tsv" then "meta.tsv"<br>
 8.Now click on sphereize data and boom the most used words in positive and negative reviews get seperated.<br>
 9.This helps the ai detect if the review is positive or negative.
