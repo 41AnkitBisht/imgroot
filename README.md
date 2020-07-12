@@ -19,7 +19,7 @@ The dataset comprises of 25000 reviews and labels for training data and 25000 fo
 6.Plot grap of accuracy vs epochs and loss vs epochs <br>
 
 ## HOW EASY IT IS TO GET STARTED:
-1.Open the file IMDb_review.ipynb<br>
+1.Open the first file IMDb_review.ipynb<br>
 2.Click --> open in colab<br>
 3.Press Shift+enter to run a cell or simply click on the play icon displayed on the cell. Click --> Run Anyway<br>
 4.When a cell stops running the play icon is displayed again. Press play icon for every cell and wait for it to be processed. <br>
