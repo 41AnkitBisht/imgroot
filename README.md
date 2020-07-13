@@ -10,6 +10,9 @@ To identify if the movie review is positive or negative.
 ## DATASET:<br>
 The dataset comprises of 25000 reviews and labels for training data and 25000 for testing data. Also the review for a movie is not repeated more than 3 time.<br>
 
+## MAJOR CONTRIBUTER<BR>
+  Andrew Ng, Laurence Moroney<br>
+  
 ## STEPS:<br>
 1.Get Tensor Flow dataset on IMDb reviews .<br>
 2.Classify the data and store them as training and testing data <br>
@@ -39,4 +42,6 @@ The dataset comprises of 25000 reviews and labels for training data and 25000 fo
 
 ### 3.FOR CONV1D<br>
 ![conv1d](https://user-images.githubusercontent.com/68053008/87217221-85f82700-c364-11ea-852a-b96273cc1db1.png)
+
+
 
