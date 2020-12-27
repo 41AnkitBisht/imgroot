@@ -2,7 +2,7 @@
 
 # "SENTIMENT ANALYSIS ON IMDb MOVIE REVIEWS"
 
-Natural Language Processing, usually shortened as NLP, is a branch of artificial intelligence that deals with the interaction between computers and humans using the natural language. The ultimate objective of NLP is to read, decipher, understand, and make sense of the human languages in a manner that is valuable.
+Natural Language Processing, usually shortened as NLP, is a branch of artificial intelligence that deals with the interaction between computers and humans using the natural language. The ultimate objective of NLP is to read, decipher, understand, and make sense of the human languages in a manner that is valuable.<br>
 <------FOR VIDEO - https://www.linkedin.com/posts/ankit-bisht-4442b4186_machinelearning-sentimentanalysis-pythonprogramming-activity-6688308446875435008-rcJJ -------------->
 
 ## OBJECTIVES:<br>
